@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on ZheJiang university and moscow aviatation university
-- 🌱 I’m currently learning the machine learning and material science
+- 🔭 I’m currently studying on ZheJiang university and moscow aviatation university (master degree, graduated in 2024.07)
+- 🌱 I’m currently learning the material science and python code.
 - 💬 Ask me about anything for free
 - 📫 How to reach me: 12324025@zju.edu.cn
 
