@@ -5,7 +5,7 @@
 - 💬 Ask me about anything for free
 - 📫 How to reach me: 12324025@zju.edu.cn
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShengLin1001?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Louis?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **ShengLin1001/ShengLin1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
