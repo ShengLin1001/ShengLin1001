@@ -12,8 +12,6 @@ I am a PhD student in materials engineering at Zhejiang University. My research 
 
 * 💬 Feel free to ask me anything. I am always happy to discuss materials science, computational modeling, and scientific programming.
 
-* 📫 How to reach me: [12324025@zju.edu.cn](mailto:12324025@zju.edu.cn)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Louis?cardType=level\&theme=github-dark\&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <a href="https://git.io/streak-stats">
